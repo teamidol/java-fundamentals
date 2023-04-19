@@ -1,1 +1,3 @@
-# java-fundamentals
+# **LAB 01**
+
+As usual, it took me a long time to finish my labs. For a newbie like me, it takes a long to research for answers. And with my experience in 102 to 301, syntax errors can also occur. Due to the nature of a crash course, syntax is still a big factor in forming a function to me. I was with a tutor last night, and I knew the variable was an integer, but I couldn't figure out where to place "int" in the code. I'd usually explain coding to others as "1-1-23," and that everyone knows it's month-day-year. But I haven't even really figured that out yet, especially the first day with a new language.
